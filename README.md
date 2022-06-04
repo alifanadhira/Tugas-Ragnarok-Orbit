@@ -1,2 +1,2 @@
 # Tugas-Ragnarok-Orbit
-Repository Untuk Tugas Kelas Ragnarok
+Repository untuk Tugas Kelas Ragnarok
